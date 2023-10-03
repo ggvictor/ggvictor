@@ -3,8 +3,8 @@
 <p align="center"> ❤️  um amante de tecnologia . <br><br> Desenvolvedor front-end, eu <strong>comecei nesse mundo sem nunca ter mexido em um computador</strong> e to aprendendo todo dia algo novo.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ggvictor&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ggvictor&show_icons=true&theme=radical&layout=compact" />
+  <img img width="49%" height="270px" align="center" src="https://github-readme-stats.vercel.app/api?username=ggvictor&bg_color=0d1117&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ggvictor&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
