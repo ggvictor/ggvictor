@@ -1,6 +1,4 @@
-<div  align="center" style="margin-bottom:100px">
-  <img img  height="400px" aling="center" src = "https://github.com/ggvictor/ggvictor/assets/107512940/e736e50e-54a8-4857-b12f-28e22f235ce8"/>
-</div>
+
 <p align="center"> ❤️  um amante de tecnologia . <br><br> Desenvolvedor front-end, eu <strong>comecei nesse mundo sem nunca ter mexido em um computador</strong> e to aprendendo todo dia algo novo.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
